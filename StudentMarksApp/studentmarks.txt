@@ -1,0 +1,11 @@
+STUDENT MARKS REPORT
+****************************
+Student 1: 75, 90
+Student 2: 90, 85
+Student 3: 90, 95
+Total Marks: 525
+Average Mark: 87,50
+Passing Marks: 6
+Failing Marks: 0
+Students Processed: 3
+****************************
